@@ -28,9 +28,4 @@ This is a simple guide on how to run this project. Follow the instructions below
 
 
 
-#Register Page - 
-![register page](https://github.com/bharatlal124/Node_js_job_portal_project/assets/127212425/ad9a2e71-d185-409e-80f8-f76888252914)
-
-#Add new job page - 
-![new job add page](https://github.com/bharatlal124/Node_js_job_portal_project/assets/127212425/97852273-7ddf-4bc5-b5e5-c3ade01e1e9b)
 
