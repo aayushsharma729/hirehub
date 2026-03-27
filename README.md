@@ -26,19 +26,7 @@ This is a simple guide on how to run this project. Follow the instructions below
 
 **http://localhost:3200**
 
-## Live Link:
-https://job-portal-project-068u.onrender.com/
 
-## Overview of this project :
-
-#Home Page -
-![Home page](https://github.com/bharatlal124/Node_js_job_portal_project/assets/127212425/4ca13fc8-5fbc-4bdc-ab31-7802ab3255c1)
-
-#Jobs Page -
-![Jobs page](https://github.com/bharatlal124/Node_js_job_portal_project/assets/127212425/bcedd8eb-b65c-40c2-bd56-0ae31478c093)
-
-#Login  Page -
-![login page](https://github.com/bharatlal124/Node_js_job_portal_project/assets/127212425/94e696b4-03e3-4727-9d8b-d6fa3a84453a)
 
 #Register Page - 
 ![register page](https://github.com/bharatlal124/Node_js_job_portal_project/assets/127212425/ad9a2e71-d185-409e-80f8-f76888252914)
